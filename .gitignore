@@ -1,2 +1,8 @@
 .venv/
 venv
+
+data/
+
+artifacts/
+
+__pycache__/
